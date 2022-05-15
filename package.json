@@ -1,6 +1,6 @@
 {
   "homepage": "http://moamin-abuewaida.github.io/qrcode-generator",
-  "name": "qrcode-generator",
+  "name": "react-qr-gen",
   "private": true,
   "version": "0.0.0",
   "scripts": {
